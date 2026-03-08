@@ -1,0 +1,31 @@
+# CMPG313 Lab 1 – YOLOv8 Object Detection
+
+## Overview
+As part of my coursework, I trained a YOLOv8 model to detect an object or action involving myself, using data I collected and labeled. This project allowed me to explore machine learning workflows, from dataset creation to model evaluation, and gain hands-on experience with Teachable Machine. Through this process, I not only strengthened my practical skills in computer vision and object detection but also considered real-world applications for AI in personal and professional contexts.
+
+## Tools Used
+- Python 3.14.0
+- YOLOv8 (Ultralytics)
+- OpenCV
+- GitHub
+
+## Features
+- Object detection on images
+- Object detection and tracking on video
+- Real-time detection using webcam
+
+## How to Run
+1. Install required libraries:
+pip install ultralytics opencv-python
+
+2. Run the script:
+python lab_1.py
+
+## Example Outputs
+The repository includes screenshots and output videos showing:
+- Detection on an image
+- Detection on traffic video
+- Detection using webcam
+
+## Author
+Potlako Makofane
